@@ -6,7 +6,7 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter/material.dart';
-import 'package:flutter_quizz_app/start_screen.dart';
+import 'package:flutter_quizz_app/screens/start_screen.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:flutter_quizz_app/main.dart';
